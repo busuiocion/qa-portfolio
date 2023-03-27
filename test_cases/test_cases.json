@@ -1,0 +1,27 @@
+Test Case Title: Download functionality test
+
+Description: This test case verifies the download functionality of a file on a web application.
+
+Pre-Conditions:
+
+A web application with download functionality is available.
+User has a valid account and logged in to the application.
+The file to be downloaded is available on the web application.
+Test Steps:
+
+Open the web application and log in using valid credentials.
+Navigate to the page where the file is available for download.
+Click on the download button to initiate the download process.
+Verify that the download process starts and the progress bar displays the progress of the download.
+Wait for the download to complete and verify that the downloaded file is saved in the desired location.
+Check that the downloaded file is not corrupted and can be opened successfully.
+Check that the file size of the downloaded file is correct and matches the size of the file on the web application.
+Verify that the downloaded file has the same content as the original file on the web application.
+Expected Results:
+
+The download process should start successfully.
+The progress bar should display the progress of the download.
+The downloaded file should be saved in the desired location.
+The downloaded file should not be corrupted and should be able to be opened successfully.
+The file size of the downloaded file should be correct and match the size of the file on the web application.
+The downloaded file should have the same content as the original file on the web application.
