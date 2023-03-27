@@ -1,0 +1,29 @@
+Bug ID: MAN-001
+
+Bug Title: Manual not displaying correctly
+
+Description: When attempting to view the manual on the application, the manual does not display correctly. 
+
+Steps to Reproduce:
+
+Open the application.
+Navigate to the "Help" section.
+Click on the "Manual" link to view the manual.
+Observe that the manual does not display correctly. Content is cut off, and images are missing. Formatting issues are also present.
+Expected Results:
+
+The manual should display correctly with all content, images, and formatting intact.
+Actual Results:
+
+The manual does not display correctly. Content is cut off, and images are missing. Formatting issues are also present.
+Severity: High
+
+Impact: The inability to view the manual correctly impacts the usability of the application. Users are unable to access vital information about the application's functions and features, leading to confusion and potential errors.
+
+Reproducibility: The bug is reproducible every time the manual link is clicked.
+
+Environment:
+
+Operating System: Windows 10
+Browser: Google Chrome
+Application Version: 2.3.1
